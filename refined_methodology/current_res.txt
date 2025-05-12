@@ -1,0 +1,103 @@
+Current findings:
+
+2021 Sentiment Distribution:
+  neutral: 84.0%
+  positive: 13.0%
+  negative: 3.0%
+
+  Top Recommendations Mentioned:
+  policy: 44 articles (44.0%)
+  must: 41 articles (41.0%)
+  should: 38 articles (38.0%)
+  standards: 36 articles (36.0%)
+  need to: 36 articles (36.0%)
+
+  Top Ethical Issues Mentioned:
+  privacy: 43 articles (43.0%)
+  security: 43 articles (43.0%)
+  bias: 30 articles (30.0%)
+  transparency: 28 articles (28.0%)
+  accountability: 26 articles (26.0%)
+
+Top Technologies Discussed:
+  machine learning: 17 articles (17.0%)
+  algorithm: 11 articles (11.0%)
+  facial recognition: 7 articles (7.0%)
+  robotics: 6 articles (6.0%)
+  computer vision: 4 articles (4.0%)
+
+2022 Sentiment Distribution:
+  neutral: 79.0%
+  positive: 19.0%
+  negative: 2.0%
+
+  Top Ethical Issues Mentioned:
+  privacy: 35 articles (35.0%)
+  bias: 33 articles (33.0%)
+  transparency: 31 articles (31.0%)
+  security: 30 articles (30.0%)
+  fairness: 25 articles (25.0%)
+
+Top Technologies Discussed:
+  machine learning: 36 articles (36.0%)
+  algorithm: 15 articles (15.0%)
+  robotics: 9 articles (9.0%)
+  robot: 7 articles (7.0%)
+  facial recognition: 4 articles (4.0%)
+
+2023 Sentiment Distribution:
+  neutral: 75.0%
+  positive: 24.0%
+  negative: 1.0%
+
+  Top Ethical Issues Mentioned:
+  privacy: 56 articles (56.0%)
+  transparency: 50 articles (50.0%)
+  security: 48 articles (48.0%)
+  fairness: 37 articles (37.0%)
+  accountability: 32 articles (32.0%)
+
+Top Technologies Discussed:
+  generative ai: 27 articles (27.0%)
+  machine learning: 24 articles (24.0%)
+  chatgpt: 10 articles (10.0%)
+  robotics: 8 articles (8.0%)
+  algorithm: 7 articles (7.0%)
+
+2024 Sentiment Distribution:
+  neutral: 73.0%
+  positive: 26.0%
+  negative: 1.0%
+
+  Top Ethical Issues Mentioned:
+  transparency: 46 articles (46.0%)
+  privacy: 42 articles (42.0%)
+  security: 39 articles (39.0%)
+  accountability: 37 articles (37.0%)
+  bias: 34 articles (34.0%)
+
+Top Technologies Discussed:
+  machine learning: 26 articles (26.0%)
+  generative ai: 19 articles (19.0%)
+  robotics: 15 articles (15.0%)
+  predictive analytics: 7 articles (7.0%)
+  chatgpt: 6 articles (6.0%)
+
+2025 Sentiment Distribution:
+  neutral: 74.0%
+  positive: 24.0%
+  negative: 2.0%
+
+  Top Ethical Issues Mentioned:
+  security: 24 articles (48.0%)
+  transparency: 15 articles (30.0%)
+  privacy: 14 articles (28.0%)
+  bias: 13 articles (26.0%)
+  accountability: 13 articles (26.0%)
+
+Top Technologies Discussed:
+  machine learning: 10 articles (20.0%)
+  generative ai: 6 articles (12.0%)
+  robotics: 6 articles (12.0%)
+  llm: 3 articles (6.0%)
+  ai model: 3 articles (6.0%)
